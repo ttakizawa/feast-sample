@@ -1,1 +1,10 @@
-export GOOGLE_APPLICATION_CREDENTIALS="/Users/takizawatakafumi/.gcp/data-science-295414-e5d16b98eaad.json"
+## GCP環境の設定
+
+export GOOGLE_APPLICATION_CREDENTIALS="path/to/credential"
+
+## Feature Storeの作成
+
+```
+cd climbing_firefly
+feast apply
+```
