@@ -1,0 +1,6 @@
+project: data_science
+registry: gs://feast-repo/data/registry.db
+provider: gcp
+offline_store:
+  type: bigquery
+  dataset: feast_bq_dataset

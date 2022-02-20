@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/takizawatakafumi/.gcp/data-science-295414-e5d16b98eaad.json"
